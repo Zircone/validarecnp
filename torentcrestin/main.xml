@@ -1,0 +1,4 @@
+﻿<view height="150" width="250" onopen="view_onOpen()">
+    <img src="stock_images\background.png"/>
+    <script src="main.js" />
+</view>

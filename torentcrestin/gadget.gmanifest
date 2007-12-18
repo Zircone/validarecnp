@@ -1,0 +1,13 @@
+﻿<gadget minimumGoogleDesktopVersion="5.1.0.0">
+  <about>
+    <name>&GADGET_NAME;</name>
+    <description>&GADGET_DESCRIPTION;</description>
+    <aboutText>&GADGET_ABOUT_TEXT;</aboutText>
+    <smallIcon>icon_small.png</smallIcon>
+    <icon>icon_large.png</icon>
+    <version>1.0.0.0</version>
+    <author>Filip</author>
+    <authorWebsite>http://desktop.google.com/plugins.html</authorWebsite>
+    <id>CD555624-CA53-45AF-85C8-AE8D3BEA5301</id>
+  </about>
+</gadget>
