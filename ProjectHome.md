@@ -1,0 +1,1 @@
+Un script gratuit, micut, facut de Filip Pacurar.
